@@ -1,0 +1,6 @@
+[submodule "qtile"]
+	path = qtile
+	url = git@github.com:qtile/qtile.git
+[submodule "qtile-examples"]
+	path = qtile-examples
+	url = git@github.com:qtile/qtile-examples.git
